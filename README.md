@@ -1,1 +1,1 @@
-Repositório criado para documentar o aprendizado em python.
+Nesse repositório eu consumo dados da API da openweather. 
